@@ -1,26 +1,35 @@
 # Chinese Vocabulary Checker
 
-A simple web application that helps you identify known Chinese characters and words from your vocabulary list.
+A web application that helps you identify known Chinese characters and words from your vocabulary list.
 
 ## Features
 
-- Paste any Chinese text and check it against your vocabulary list
+- Paste any Chinese text and check it against your vocabulary lists
 - Known characters/words are highlighted in light blue
 - Unknown characters are highlighted in orange
 - Multi-character words are detected (up to 4 characters)
 - Hover over highlighted words to see pinyin and definition
+- Visual statistics showing the breakdown of known vs unknown characters
+- Support for two vocabulary sources (CI and YT)
 
 ## How to Use
 
-1. Open `index.html` in a web browser
-2. Paste Chinese text into the textarea
-3. Click "Check Vocabulary" button
-4. The processed text will appear below with appropriate highlighting
-5. Hover over blue highlighted characters to see their pronunciation and meaning
+1. Start the local server using one of the provided server options:
+   - Node.js: `node server.js`
+   - Python: `python server.py`
+2. Open your browser and navigate to `http://localhost:3000`
+3. Paste Chinese text into the textarea
+4. Click "Check Vocabulary" button
+5. The processed text will appear below with appropriate highlighting
+6. Hover over blue highlighted characters to see their pronunciation and meaning
+7. View character statistics to track your vocabulary coverage
 
-## Vocabulary File
+## Vocabulary Files
 
-The application uses `vocab_ci.txt` which should be in the tab-separated format:
+The application uses two vocabulary files:
+
+### 1. vocab_ci.txt
+Main vocabulary list in tab-separated format:
 ```
 character/word    pinyin    definition
 ```
@@ -32,8 +41,12 @@ Example:
 你好    nǐ haǒ    hello
 ```
 
+### 2. vocab_yt.txt
+Secondary vocabulary list in the same format, used to track additional vocabulary sources.
+
 ## Notes
 
 - The app checks combinations of up to 4 characters
 - When multiple combinations are possible, it selects the longest match
-- Make sure the vocab_ci.txt file is in the same directory as the HTML file 
+- The application prioritizes finding words in the vocabulary lists rather than individual characters
+- Statistics help you track your vocabulary coverage progress 
