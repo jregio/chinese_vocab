@@ -1,0 +1,640 @@
+#separator:tab
+#html:false
+你	nǐ	you
+好	hǎo	good
+你好	nǐ haǒ	hello
+我	wǒ	I
+叫	jiaò	called
+素清	sù qīng	Sue Qing
+不	bù	no
+是	shì	be
+中	zhōng	middle
+国	guó	country
+中国	Zhōngguó	China
+人	rén	person
+日	rì	sun / day
+日本	Rìběn	Japan
+可是	kěshì	but
+住	zhù	stay
+在	zài	at
+大	dà	big
+亚	yà	Asia
+澳大利亚	Aòdàlìyà	Australia
+有	yǒu	have
+一	yī	one
+个	ge	(general measure word)
+男	nán	male
+朋友	péngyou	friend
+男朋友	nánpéngyou	boyfriend
+他	tā	he / she
+英	yīng	UK / British / English
+英国	Yīngguó	Britain
+的	de	of
+妈妈	māma	Mom
+喜欢	xǐhuan	like
+什么	shémme	what
+为什么	wèishémme	why
+因为	yīnwèi	since
+很	hěn	very
+胖	pàng	fat
+穷	qióng	poor
+矮	ǎi	short
+要	yào	want / will / need
+不要	búyào	don't / doesn't want
+买	mǎi	buy
+房子	fángzi	house
+没	méi	didn't / doesn't
+没有	méiyǒu	doesn't have
+对	duì	correct
+谢谢	xièxie	thanks
+多	duō	many
+吃	chī	eat
+好吃	hǎochī	tasty
+天	tiān	day
+饿	è	hungry
+说	shuō	say / speak
+们	mén	(plural)
+我们	wǒmen	we
+你们	nǐmen	you guys
+他们	tāmen	they
+也	yě	also
+都	dōu	all
+可以	kěyǐ	can
+去	qù	go
+意大利	Yìdàlì	Italy
+菜	cài	food
+怎么样	zěmmeyàng	how about?
+太	tài	too
+贵	guì	expensive
+了	le	(change of state ; instensifier)
+泰国	Tàiguó	Thailand
+甜	tián	sweet
+会	huì	can
+做	zuò	do / make
+所以	suǒyǐ	so
+饭	fàn	cooked rice / food
+店	diàn	store
+饭店	fàndiàn	restaurant
+哎呀	āiyā	Oh!
+到	dào	to / until
+到底	dàodǐ	finally / in the end
+真	zhēn	really / truly / genuine
+再	zài	again
+见	jiàn	see / meet
+再见	zàijiàn	See you again!
+包	bāo	cover / wrap / bag
+服务员	fúwùyuán	waitress / waiter
+给	gěi	for
+然后	ránhòu	then
+明	míng	bright / clear
+白	bái	white
+明白	míngbái	understand
+吗	ma	(yes/no question particle)
+觉得	juéde	think
+它	tā	it
+星期	xīngqī	week
+时候	shíhou	time
+睡觉	shuìjiào	sleep
+健身	jiànshēn	exercise
+教	jiāo	teach
+文	wén	language / culture
+中文	Zhōngwén	Mandarin Chinese language
+二	èr	two
+三	sān	3
+四	sì	4
+五	wǔ	5
+六	liù	6
+学	xué	learn / study
+想	xiǎng	think / want
+可能	kěnéng	maybe
+生	shēng	life
+学生	xuéshēng	student
+家	jiā	home
+今	jīn	present time
+每	měi	each / every
+差	chà	lack
+差不多	chàbuduō	approximately / more or less
+点	diǎn	dot / o'clock
+来	lái	come
+床	chuáng	bed
+起床	qǐchuáng	get out of bed
+一定	yídìng	surely
+不一定	bùyídìng	not necessarily / maybe
+如果	rúguǒ	if
+工作	gōngzuò	work
+醒来	xǐnglái	wake up
+懒	lǎn	lazy
+睡懒觉	shuìlǎnjiào	sleep in
+以后	yǐhòu	afterwards
+早	zǎo	early
+早饭	zǎofàn	breakfast
+知道	zhīdào	know
+呢	ne	(particle for prior question)
+喝	hē	drink
+咖啡	kāfēi	coffee
+或者	huòzhě	or
+学习	xuéxí	study
+老	lǎo	old
+老师	lǎoshī	teacher
+西班牙	Xībānyá	Spain
+语	yǔ	dialect / language
+西班牙语	Xībānyáyǔ	Spanish
+上	shàng	above / previous
+早上	zǎoshang	morning
+中午	zhōngwǔ	noon
+午饭	wǔfàn	lunch
+面包	miànbāo	bread
+意大利面	Yìdàlìmiàn	spaghetti
+炒	chǎo	sautee / stir-fry
+炒面	chǎomiàn	stir-fried noodles
+现在	xiànzài	now
+饱	bǎo	full
+困	kùn	sleepy
+午睡	wǔshuì	nap
+长	cháng	long (time / length)
+时间	shíjiān	time
+钟	zhōng	clock
+分钟	fēnzhōng	minute
+小	xiǎo	small
+小时	xiǎoshí	hour
+两	liǎng	2
+十	shí	10
+短	duǎn	short
+医生	yīshēng	doctor
+弹	tán	pluck / play string instrument
+钢琴	gāngqín	piano
+晚	wǎn	evening / late
+晚上	wǎnshang	evening
+晚饭	wǎnfàn	dinner
+看	kàn	look / watch
+电	diàn	electricity
+电视	diànshì	TV
+电影	diànyǐng	movie
+书	shū	book
+看书	kànshū	read
+安	ān	peace
+晚安	wǎn’ān	Good night
+爱	ài	love
+爱好	àihào	hobby
+唱	chàng	sing
+歌	gē	song
+唱歌	chànggē	sing
+跳	tiào	jump / bounce / dance
+舞	wǔ	dance
+跳舞	tiàowǔ	dance
+乐	yuè	music
+乐器	yuèqì	play instrument
+第	dì	(ordinal number)
+后	hòu	back / after
+前	qián	front / before
+以前	yǐqián	previously
+哪	nǎ	where
+儿	ér	-r
+哪儿	nǎr	where
+酒	jiǔ	alcohol
+酒吧	jiǔbā	bar
+公	gōng	public
+公园	gōngyuán	public park
+东	dōng	east
+西	xī	west
+东西	dōngxi	things
+得	de	(particle for degree of a verb)
+月	yuè	month / moon
+年	nián	year
+慢	màn	slow
+累	lèi	tired
+越来越	yuèláiyuè	increasingly
+少	shǎo	few / less / seldom
+还	hái	still / yet
+还是	háishi	or
+毛	máo	hair / feather
+毛毛虫	máomaochóng	caterpillar
+条	tiáo	(measure: strip)
+苹果	píngguǒ	apple
+梨	lí	pear
+李子	lǐzi	plum
+子	zi	(particle suffix for noun)
+草	cǎo	grass / straw
+草莓	cǎoméi	strawberry
+李	lǐ	plum
+橙	chéng	orange (color)
+橙子	chéngzi	orange (fruit)
+几	jǐ	how many / a few
+块	kuài	(measure: piece, block)
+蛋	dàn	egg
+蛋糕	dàngāo	cake
+冰	bīng	ice
+冰激凌	bīngjīlíng	ice cream
+黄	huáng	yellow
+瓜	guā	melon
+黄瓜	huángguā	cucumber
+奶	nǎi	milk
+奶酪	nǎilào	cheese
+根	gēn	(measure: long slender objects)
+香	xiāng	fragrant
+肠	cháng	intestines
+香肠	xiāngcháng	sausage
+棒	bàng	stick / club
+糖	táng	sugar
+棒棒糖	bàngbàngtáng	lollipop
+西瓜	xīguā	watermelon
+肚子	dùzi	belly
+痛	tòng	pain
+叶子	yèzi	leaf
+绿	lǜ	green
+色	sè	color
+绿色	lǜsè	green (color)
+漂亮	piàoliang	beautiful / pretty
+奇怪	qíguài	weird / strange
+这	zhè	this
+女	nǚ	female
+男人	nánrén	man
+女人	nǚrén	woman
+打	dǎ	hit / strike
+话	huà	dialect / language
+电话	diànhuà	telephone / phone call
+打电话	dǎdiànhuà	call someone on the phone
+找	zhǎo	find
+孩子	háizi	child
+好的	hǎode	Ok
+问	wèn	ask
+问题	wèntí	question / problem
+没问题	méiwèntí	No problem
+作业	zuòyè	homework
+还有	háiyǒu	there's still
+头	tóu	head
+头发	tóufa	hair on head
+带	dài	bring
+剪	jiǎn	scissors
+剪头发	jiǎntóufa	get a haircut
+爸爸	bàba	dad
+常	cháng	common / regular
+非常	fēicháng	very / really
+留言	liúyán	leave a message
+告诉	gàosu	inform
+只	zhī	(measure: birds and animals) / only
+猫	māo	cat
+狗	gǒu	dog
+猪	zhū	pig
+兔子	tùzi	rabbit
+所有	suǒyǒu	all
+特点	tèdiǎn	characteristics
+猜	cāi	guess
+瘦	shòu	thin
+可爱	kě'ài	adorable
+蓝	lán	blue
+白色	báisè	white color
+黑	hēi	black
+黑色	hēisè	black color
+害	hài	harm
+怕	pà	afraid
+害怕	hàipà	afraid
+鼠	shǔ	mouse
+老鼠	lǎoshǔ	mouse
+一般来说	yībānláishuō	generally speaking
+耳朵	ěrduo	ear
+嘴	zuǐ	mouth
+嘴巴	zuǐba	mouth
+鼻	bí	nose
+鼻子	bízi	nose
+眼	yǎn	eye
+睛	jīng	eyeball
+眼睛	yǎnjīng	eye
+口	kǒu	mouth / entrance
+袋	dài	pocket / sack / back
+口袋	kǒudài	pocket
+里	lǐ	inside / interior
+小时候	xiǎoshíhou	childhood
+颜色	yánsè	color
+最	zuì	most
+下	xià	down / below / next
+次	cì	time / event
+下次	xiàcì	next time
+视频	shìpín	video
+戴	dài	wear
+着	zhe	(particle for action in progress)
+戴着	dàizhe	wearing
+帽子	màozi	hat
+咖啡色	kāfēisè	brown
+背	bèi	back of a body
+背着	bèizhe	carrying on back
+红	hóng	red
+红色	hóngsè	red color
+她	tā	she
+镜	jìng	mirror / lens
+眼镜	yǎnjìng	eyeglasses
+拿	ná	hold
+拿着	názhe	holding
+手	shǒu	hand
+机	jī	machine
+手机	shǒujī	cellphone
+笑	xiào	laugh / smile
+开	kāi	open
+心	xīn	heart
+开心	kāixīn	happy
+吵	chǎo	noisy
+和	hé	and
+哭	kū	cry
+把	bǎ	(particle for objects)
+放	fàng	put / place
+放在	fàngzài	put on / place on
+头上	tóushàng	above head
+难	nán	difficult
+难过	nánguò	sad
+气	qì	steam / vapor
+生气	shēngqì	angry
+日历	rìlì	calendar
+昨天	zuótiān	yesterday
+明天	míngtiān	tomorrow
+高	gāo	high / tall / above average
+兴	xìng	excitement
+运动	yùndòng	move / exercise
+休息	xiūxi	rest
+周末	zhōumò	weekend
+号	hào	(ordinal number)
+热	rè	warm
+冷	lěng	cold
+高兴	gāoxìng	happy
+种	zhǒng	type
+饮料	yǐnliào	beverage
+牛	niú	cow
+牛奶	niúnǎi	cow's milk
+豆	dòu	bean
+浆	jiāng	thick liquid
+豆浆	dòujiāng	soy milk
+啤酒	píjiǔ	beer
+韩国	Hánguó	Korea
+俄罗斯	Éluósī	Russia
+特	tè	special / unique
+别	bié	separate / do not
+特别	tèbié	unusual / special
+味	wèi	taste / smell
+味道	wèidao	flavor
+米	mǐ	rice
+烤	kǎo	roast / bake
+过	guo	(particle for experienced)
+样	yàng	manner / pattern / way / type
+这样	zhèyàng	this kind of
+名	míng	name
+名字	míngzi	name
+听	tīng	listen / hear
+起来	-qilai	(verb completion)
+听起来	tīngqilai	... sounds ...
+北	běi	north
+京	jīng	captial city of a country
+北京	Běijīng	Beijing
+惑	huò	puzzled / confused
+困惑	kùnhuò	confused
+喝起来	hēqilai	... tastes ...
+精	jīng	essence
+酒精	jiǔjīng	alcohol content
+看起来	kànqilai	... looks ...
+像	xiàng	resembles
+一样	yīyàng	same
+不一样	bùyīyàng	different
+式	shì	try
+左	zuǒ	left
+右	yòu	right
+左右	zuǒyòu	approximately
+前天	qiántiān	day before yesterday
+动	dòng	movement
+动物	dòngwù	animal
+园	yuán	land for public recreation
+动物园	dòngwùyuán	zoo
+走	zǒu	walk / go
+路	lù	road
+牙	yá	tooth
+刷	shuā	brush
+刷牙	shuāyá	brush teeth
+洗	xǐ	wash
+脸	liǎn	face
+洗脸	xǐliǎn	wash face
+杯	bēi	(particle for containers of liquids)
+车	chē	car
+茶	chá	tea
+早茶	zǎochá	traditional Chinese breakfast
+虾	xiā	shrimp / prawn
+又	yòu	also / both ... and ...
+便宜	piányi	cheap
+刀	dāo	dollar
+超市	chāoshì	market
+蔬菜	shūcài	vegetables
+水	shuǐ	water
+水果	shuǐguǒ	fruit
+回	huí	return
+回家	huíjiā	return home
+下午	xiàwǔ	afternoon
+准备	zhǔnbèi	prepare
+泳	yǒng	diving / swimming
+泳衣	yǒngyī	swimsuit
+游	yóu	swim / float / drift
+游泳	yóuyǒng	swim
+衣服	yīfu	clothes
+零食	língshí	snack
+涂	tú	paint / smear
+太阳	tàiyang	sun
+海	hǎi	ocean / sea
+边	biān	side
+海边	hǎibiān	beach
+路上	lùshang	on the way
+炸	zhá	fry
+鱼	yú	fish
+炸鱼	zháyú	fried fish
+薯	shǔ	potato / yam
+薯条	shǔtiáo	french fries
+玩	wán	have fun
+洗澡	xǐzǎo	take a bath
+半	bàn	half
+一边	yìbiān	... while ...
+应该	yīnggāi	should
+该	gāi	should
+开始	kāishǐ	start
+本	běn	(measure word for books)
+意思	yìsi	meaning / idea
+有意思	yǒuyìsi	interesting
+故事	gùshi	story
+用	yòng	use
+哥哥	gēge	older brother
+姐姐	jiějie	older sister
+村	cūn	village
+农村	nóngcūn	rural area
+小学	xiǎoxué	elementary school
+村子	cūnzi	village
+走路	zǒulù	walk
+中学	zhōngxué	middle school
+镇	zhèn	small town
+小镇	xiǎozhèn	small town
+学校	xuéxiào	school
+有的时候	yǒudeshíhòu	sometimes
+坐	zuò	sit
+坐车	zuòchē	ride car
+高中	gāozhōng	senior high
+城	chéng	city
+城市	chéngshì	city / town
+离	lí	from (distance)
+远	yuǎn	far
+大学	dàxué	college
+汽车	qìchē	car / automobile / bus
+大巴	dàbā	large bus
+火	huǒ	fire
+火车	huǒchē	train
+飞	fēi	fly
+飞机	fēijī	airplane
+出	chū	go out
+出国	chūguó	go out of the country
+来到	láidào	arrive
+先	xiān	first
+分	fēn	divide
+区分	qūfēn	differentiate
+国家	guójiā	nation / country / state
+测试	cèshì	test / exam
+图	tú	diagram
+片	piàn	slice
+图片	túpiàn	photo
+些	xiē	(plural)
+题	tí	problem
+食物	shíwù	food
+张	zhāng	(measure for flat objects, sheets)
+面条	miàntiáo	noodles
+那	nà	that / ... so
+答案	dá'àn	answer
+拉面	lāmiàn	ramen
+肉	ròu	meat
+牛肉	niúròu	beef
+萝卜	luóbo	radish
+冰块	bīngkuài	ice cube
+里面	lǐmiàn	inside
+鸡	jī	chicken
+鸡蛋	jīdàn	chicken egg
+猪肉	zhūròu	pork
+名人	míngrén	celebrity
+有名	yǒumíng	famous
+结	jié	knot
+婚	hūn	marriage
+结婚	jiéhūn	get married
+景点	jǐngdiǎn	tourist spot
+就	jiù	in that case / then / simply
+就是	jiùshì	that's to say
+旅	lǚ	trip / travel
+旅游	lǚyóu	travel
+地	dì	earth / soil
+方	fāng	square / rectangle
+地方	dìfang	area / place
+进	jìn	enter
+进去	jìnqù	go inside
+穿	chuān	wear / put on
+更	gèng	more
+最后	zuìhòu	last / final
+语言	yǔyán	language
+词	cí	word
+臭	chòu	stink
+腻	nì	greasy
+外	wài	outside / foreign
+外国	wàiguó	foreign country
+切	qiē	cut
+直	zhí	straight
+接	jiē	receive / continue
+直接	zhíjiē	directly
+恶	ě	wicked / foul
+恶心	ěxīn	disgusting
+记	jì	memorize / remember
+记得	jìde	remember
+受	shòu	receive / accept
+接受	jiēshòu	accept
+别人	biérén	other people
+流	liú	flow
+口水	kǒushuǐ	saliva
+听说	tīngshuō	hear (other people say)
+法国	Fǎguó	France
+内蒙古	Nèiměnggǔ	Inner Mongolia
+云南	Yúnnán	Yunnan
+写	xiě	write
+敢	gǎn	dare
+腐	fǔ	decay / rotten
+豆腐	dòufu	tofu
+一起	yīqǐ	together
+成	chéng	turn into
+汤	tāng	soup
+画	huà	picture / painting
+动画	dònghuà	cartoon
+部	bù	section / part
+部分	bùfen	part / portion / piece
+大部分	dàbùfen	majority
+假	jiǎ	fake
+一些	yìxiē	some
+熊	xióng	bear
+棕	zōng	brown
+棕色	zōngsè	brown color
+熊猫	xióngmāo	panda
+礼貌	lǐmào	courtesy
+有礼貌	yǒulǐmào	polite
+利	lì	advantage / benefit
+流利	liúlì	fluent
+钱	qián	money
+锅	guō	pot
+近	jìn	near / close
+最近	zuìjìn	recently
+重庆	Chóngqìng	Chongqing
+川	chuān	river
+四川	Sìchuān	Sichuan
+山	shān	mountain
+酸	suān	sour
+桌子	zhuōzi	table
+多大	duōdà	how big?
+多少	duōshǎo	how many?
+让	ràng	let / allow
+同	tóng	same / similar
+同时	tóngshí	at the same time
+照片	zhàopiàn	photograph
+爬	pá	crawl / climb
+爬山	páshān	climb a mountain
+才	cái	then and only then
+担	dān	carry / undertake
+担心	dānxīn	anxious / worried
+变	biàn	change / transform
+不用	búyòng	need not
+夜	yè	night
+夜景	yèjǐng	nightscape
+夜晚	yèwǎn	night
+景色	jǐngsè	scenery
+自	zì	self
+自己	zìjǐ	by one's self
+好玩	hàowán	amusing
+怎	zěn	how
+新	xīn	new
+鲜	xiān	fresh
+新鲜	xīnxiān	fresh
+法	fǎ	method / way
+看法	kànfǎ	way of looking at things
+想法	xiǎngfǎ	way of thinking about things
+一般般	yìbānbān	so-so
+但	dàn	but / however
+但是	dànshì	however
+这么	zhème	how ...
+查	chá	research / investigate
+大概	dàgài	approximately / roughly
+美国	Měiguó	America
+算	suàn	regard as / calculate
+不算	búsuàn	not regarded as
+天气	tiānqì	weather
+雾	wù	fog / mist
+夏	xià	summer
+夏天	xiàtiān	summer
+湿	shī	moist / wet
+冬	dōng	winter
+冬天	dōngtiān	winter
+虽	suī	although / even though
+虽然	suīrán	although / even though
+美	měi	beautiful
+美食	měishí	gourmet
+观	guān	watch / observe
+观看	guānkàn	watch / view
+金	jīn	gold
+美金	Měijīn	US dollar
+同桌	tóngzhuō	desk-mate
+牢	láo	prison
+坐牢	zuòláo	imprisoned
+男孩	nánhái	boy
+坏	huài	bad
+大家	dàjiā	everyone
+今天	jīntiān	today
